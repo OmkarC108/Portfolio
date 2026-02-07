@@ -7,7 +7,7 @@ import githubIcon from "../../assets/github-light.svg";
 import linkedinIcon from "../../assets/linkedin-light.svg";
 import sun from "../../assets/sun.svg";
 import moon from "../../assets/moon.svg";
-import CV from "../../assets/OmkarResume.pdf";
+import CV from "../../assets/OmkarChaudhari(ASP.NET).pdf";
 import { useTheme } from "../../common/ThemeContext";
 import twitterLight from "../../assets/twitter-light.svg";
 import twitterDark from "../../assets/twitter-dark.svg";
